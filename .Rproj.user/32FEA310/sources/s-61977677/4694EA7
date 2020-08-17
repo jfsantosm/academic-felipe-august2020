@@ -1,12 +1,12 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1597670988154.000,
+    "created" : 1597671561776.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "352540985",
-    "id" : "C96C4D9",
+    "id" : "4694EA7",
     "lastKnownWriteTime" : 1597670838,
     "last_content_update" : 1597670838,
     "path" : "C:/Users/felip/OneDrive/Desktop/Meidai/Seminar Research/GitHub/academic-felipe-august2020/config/_default/menus.toml",
@@ -16,7 +16,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 5,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "toml"

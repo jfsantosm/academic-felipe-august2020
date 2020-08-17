@@ -1,22 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1597670993350.000,
+    "created" : 1597671565622.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3913679950",
-    "id" : "E2304C1A",
-    "lastKnownWriteTime" : 1597670838,
-    "last_content_update" : 1597670838,
+    "hash" : "3479002032",
+    "id" : "95648FE6",
+    "lastKnownWriteTime" : 1597671676,
+    "last_content_update" : 1597671676363,
     "path" : "C:/Users/felip/OneDrive/Desktop/Meidai/Seminar Research/GitHub/academic-felipe-august2020/config/_default/params.toml",
     "project_path" : "config/_default/params.toml",
     "properties" : {
+        "cursorPosition" : "118,0",
+        "scrollLine" : "112"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 6,
+    "relative_order" : 5,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "toml"
