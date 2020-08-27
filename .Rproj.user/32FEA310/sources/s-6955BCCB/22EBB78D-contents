@@ -50,8 +50,13 @@ social:
   link: https://orcid.org/0000-0002-4173-0515
   
 #- icon: google-scholar
- # icon_pack: ai
-#  link: https://scholar.google.co.jp/citations?user=iC#KxRScAAAAJ&hl=en
+#  icon_pack: ai
+#  link: https://scholar.google.co.jp/citations?user=iCKxRScAAAAJ&hl=en
+  
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  
+# For a direct email link, use "mailto:juansantosmarquez@gmail.com".
   
 - icon: twitter
 # icon_pack: fab
