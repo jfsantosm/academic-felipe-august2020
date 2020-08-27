@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "352540985",
+    "hash" : "2410234608",
     "id" : "4694EA7",
-    "lastKnownWriteTime" : 1597670838,
-    "last_content_update" : 1597670838,
+    "lastKnownWriteTime" : 1598569166,
+    "last_content_update" : 1598569166511,
     "path" : "C:/Users/felip/OneDrive/Desktop/Meidai/Seminar Research/GitHub/academic-felipe-august2020/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
+        "cursorPosition" : "22,42",
+        "scrollLine" : "10"
     },
     "read_only" : false,
     "read_only_alternatives" : [
