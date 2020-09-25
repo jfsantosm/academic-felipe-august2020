@@ -1,14 +1,14 @@
 ---
 title: 'A very brief summary of my thesis Research Proposal'
 author: ''
-date: '2021-03-01'
+date: '2020-08-01'
 slug: summary-of-my-thesis-research-proposal
 categories: []
 tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-03-01T15:27:22+09:00'
+lastmod: '2020-08-01T15:27:22+09:00'
 featured: no
 image:
   caption: ''
