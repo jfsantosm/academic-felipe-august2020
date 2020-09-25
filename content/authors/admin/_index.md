@@ -14,7 +14,7 @@ role: M2 in Development Economics.
 # Organizations/Affiliations
 organizations:
 - name: Graduate School of International Development (GSID) Nagoya University
-  url: ""
+  url: "https://www.gsid.nagoya-u.ac.jp/index-en.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dev Econ Master's student, my research interests include spatial econometrics, machine learning, sociophysics, convergence and economic growth.
