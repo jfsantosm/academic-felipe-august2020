@@ -59,8 +59,8 @@ social:
 # For a direct email link, use "mailto:juansantosmarquez@gmail.com".
   
 - icon: twitter
- icon_pack: fab
-  link: https://twitter.com/felipesantos0o9
+# icon_pack: fab
+#  link: https://twitter.com/felipesantos0o9
   
 - icon: github
   icon_pack: fab
