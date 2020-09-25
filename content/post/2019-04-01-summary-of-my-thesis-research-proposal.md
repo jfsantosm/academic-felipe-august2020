@@ -10,10 +10,7 @@ summary: ''
 authors: []
 lastmod: '2020-08-01T15:27:22+09:00'
 featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+image: "media/project2019l-asean-disparities-lights-maps.jpg"
 projects: []
 ---
 
