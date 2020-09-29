@@ -3,22 +3,22 @@
     "path": "C:/Users/felip/OneDrive/Desktop/Meidai/Seminar Research/GitHub/academic-felipe-august2020/config/_default/menus.toml",
     "project_path": "config/_default/menus.toml",
     "type": "toml",
-    "hash": "3658430755",
+    "hash": "1747271207",
     "contents": "",
     "dirty": false,
     "created": 1601359558724.0,
     "source_on_save": false,
     "relative_order": 8,
     "properties": {
-        "cursorPosition": "31,0",
+        "cursorPosition": "29,18",
         "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1601359592,
+    "lastKnownWriteTime": 1601360443,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1601359592277,
+    "last_content_update": 1601360443776,
     "read_only": false,
     "read_only_alternatives": []
 }
