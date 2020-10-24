@@ -2,7 +2,7 @@
 title:  "Regional Convergence and Spatial Dependence across Subnational Regions of ASEAN: Evidence from Satellite Nighttime Light Data"
 author: Carlos Mendez and Felipe Santos
 date: '2020-08-01'
-slug: summary-of-my-thesis-research-proposal
+slug: asean-cnvergence
 categories: []
 tags: []
 subtitle: ''
