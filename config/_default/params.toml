@@ -106,7 +106,7 @@ coordinates = {latitude = "35.1532", longitude = "136.9642"}
 # A list of your office hours. To remove, set to an empty list `[]`.
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://felipe-santos-marquez.youcanbook.me/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
