@@ -32,5 +32,5 @@
 
 [[main]]
   name = "Research lab (QuaRCS lab)"
-  url = "fhttps://quarcs-lab.org"
+  url = "https://quarcs-lab.org"
   weight = 70
