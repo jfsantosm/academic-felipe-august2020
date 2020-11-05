@@ -29,3 +29,8 @@
   name = "CV"
   url = "files/felipe_santos_CV_2020.pdf"
   weight = 70
+
+[[main]]
+  name = "Research lab (QuaRCS lab)"
+  url = "fhttps://quarcs-lab.org"
+  weight = 70
