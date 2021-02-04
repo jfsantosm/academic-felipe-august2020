@@ -64,7 +64,7 @@ social:
   
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/felipe-santos-0a5273181/
+  link: https://www.linkedin.com/in/felipe-santos-marquez-0a5273181/
 
   
 # Link to a PDF of your resume/CV from the About widget.
