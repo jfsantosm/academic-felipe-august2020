@@ -54,8 +54,8 @@ social:
   link: https://scholar.google.co.jp/citations?user=iCKxRScAAAAJ&hl=en&oi=ao
 
 - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/juansantosmarq1
+  icon_pack: fab
+  link: https://twitter.com/juansantosmarq1
   
 - icon: envelope
   icon_pack: fas
