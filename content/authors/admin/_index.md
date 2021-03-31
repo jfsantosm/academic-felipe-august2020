@@ -87,5 +87,5 @@ user_groups:
 - Visitors
 ---
 
-Am a current Development Economics Master’s student at Nagoya University in Japan. In the DevEcon field am interested in research related to:  convergence, applications of machine learning, economic growth and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Sociophysics such as: opinion dynamics, applications of statistical mechanics and network theory. 
+I have graduated from the Development Economics Master’s degree at GSID Nagoya University in Japan. In the DevEcon field am interested in research related to:  convergence, applications of machine learning, economic growth and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Sociophysics such as: opinion dynamics, applications of statistical mechanics and network theory. 
 Moreover, am the operations coordinator of the QuaRCSlab at GSID, Nagoya University.
