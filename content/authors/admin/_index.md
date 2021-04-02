@@ -13,8 +13,8 @@ role: Research Associate.
 
 # Organizations/Affiliations
 organizations:
-- name: Graduate School of International Development (GSID) Nagoya University
-  url: "https://www.gsid.nagoya-u.ac.jp/index-en.html"
+- name: QuaRCS lab
+  url: "https://quarcs-lab.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dev Econ Master and Physics BS, my research interests include spatial econometrics, machine learning, sociophysics, convergence and economic growth.
@@ -87,5 +87,4 @@ user_groups:
 - Visitors
 ---
 
-I have graduated from the Development Economics Master’s degree at GSID Nagoya University in Japan. In the DevEcon field am interested in research related to:  convergence, applications of machine learning, economic growth and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Sociophysics such as: opinion dynamics, applications of statistical mechanics and network theory. 
-Moreover, am the operations coordinator of the QuaRCSlab at GSID, Nagoya University.
+I have graduated from the Development Economics Master’s degree at GSID Nagoya University in Japan. In the DevEcon field am interested in research related to:  convergence, applications of machine learning, economic growth and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Sociophysics such as: opinion dynamics, applications of statistical mechanics and network theory. Moreover, am a cofounder of the QuaRCS lab.
