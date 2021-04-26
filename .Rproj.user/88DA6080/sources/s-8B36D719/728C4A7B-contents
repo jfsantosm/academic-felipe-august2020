@@ -9,15 +9,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate.
+role: Research Assistant.
 
 # Organizations/Affiliations
 organizations:
-- name: QuaRCS lab
-  url: "https://quarcs-lab.org"
+- name: Chair of International Economics TU Dresden
+  url: "https://tu-dresden.de/bu/wirtschaft/vwl/iwb/die-professur/beschaeftigte/kristina-kurzmann-sekretariat?set_language=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dev Econ Master and Physics BS, my research interests include spatial econometrics, machine learning, sociophysics, convergence and economic growth.
+bio: Research Assistant/ Phd student at TU Dresden, Dev Econ Master and Physics BS, my research interests include spatial econometrics, machine learning, sociophysics, convergence and economic growth.
 
 interests:
 - Machine Learning
@@ -87,4 +87,4 @@ user_groups:
 - Visitors
 ---
 
-I have graduated from the Development Economics Master’s degree at GSID Nagoya University in Japan. In the DevEcon field am interested in research related to:  convergence, applications of machine learning, economic growth and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Sociophysics such as: opinion dynamics, applications of statistical mechanics and network theory. Moreover, am a cofounder of the QuaRCS lab.
+I currently work as a research assistant at the Chair of International Economics at TU Dresden. I have graduated from the Development Economics Master’s degree at GSID Nagoya University in Japan. In the DevEcon field am interested in research related to:  convergence, applications of machine learning, economic growth and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Sociophysics such as: opinion dynamics, applications of statistical mechanics and network theory. Moreover, am a cofounder of the QuaRCS lab.

@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
+  company = "TU Dresden"
+  company_url = ""
+  location = "Dresden, Germany"
+  date_start = "2021-04-14"
+  date_end = ""
+  description = ""
+  
+  
+[[experience]]
+  title = "Research Assistant"
   company = "Graduate School of International Development"
   company_url = ""
   location = "Nagoya University GSID"
