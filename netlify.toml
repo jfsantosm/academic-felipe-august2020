@@ -26,8 +26,8 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "/old-path"
-  to = "/new-path"
+  from = "felipe-santos.rbind.io"
+  to = "felipe-santos-marquez.netlify.app"
   status = 301
   force = false
   query = {path = ":path"}
