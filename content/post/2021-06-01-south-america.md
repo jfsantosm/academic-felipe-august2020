@@ -1,5 +1,5 @@
 ---
-title:  "Regional Convergence and Spatial Dependence across Subnational Regions of ASEAN: Evidence from Satellite Nighttime Light Data"
+title:  "Economic and Social Disparities across Subnational Regions of South America: a Spatial Convergence Approach"
 author: Carlos Mendez and Felipe Santos-Marquez
 date: '2021-06-02'
 slug: southamerica-convergence
