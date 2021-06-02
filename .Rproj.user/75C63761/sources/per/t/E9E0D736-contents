@@ -40,7 +40,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: "https://doi.org/10.1111/rsp3.12335"
-url_preprint: "https://carlos-mendez.rbind.io/pdf/manuscript-project2019L.pdf"
+url_preprint: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
