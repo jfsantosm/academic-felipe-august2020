@@ -1,0 +1,24 @@
+{
+    "id": "EAF4D9A1",
+    "path": "~/GitHub/academic-felipe-august2020/config/_default/menus.toml",
+    "project_path": "config/_default/menus.toml",
+    "type": "toml",
+    "hash": "525473923",
+    "contents": "",
+    "dirty": false,
+    "created": 1622648383351.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1619613963,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619613963,
+    "read_only": false,
+    "read_only_alternatives": []
+}
