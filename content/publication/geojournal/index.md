@@ -6,7 +6,7 @@ authors:
 - admin
 
 date: "2021-01-20T00:00:00Z"
-doi: "https://doi.org/10.1080/13547860.2020.1868107"
+doi: "https://doi.org/10.1007/s10708-021-10377-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-20T00:00:00Z"
