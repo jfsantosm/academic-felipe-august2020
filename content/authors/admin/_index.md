@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate 
+role: Research Associate - Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -17,14 +17,14 @@ organizations:
   url: "https://tu-dresden.de/bu/wirtschaft/vwl/iwb/die-professur/beschaeftigte/kristina-kurzmann-sekretariat?set_language=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Associate  at TU Dresden, Dev Econ Master and Physics BSc, my research interests include spatial econometrics, machine learning, remote sensing, convergence and economic growth.
+bio: Research Associate and Doctoral Candidate at TU Dresden, Dev Econ Master and Physics BSc, my research interests include spatial econometrics, machine learning, remote sensing, convergence and economic growth.
 
 interests:
 - Machine Learning
 - Spatial Econometrics
-- Sociophysics
 - Socio-economic Convergence
 - Sustainable Development
+- Remote Sensing
 
 education:
   courses:
@@ -87,4 +87,4 @@ user_groups:
 - Visitors
 ---
 
-I currently work as a research assistant at the Chair of International Economics at TU Dresden. I have graduated from the Development Economics Master’s degree at GSID Nagoya University in Japan. In the DevEcon field am interested in research related to:  convergence, applications of machine learning, economic growth and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Sociophysics such as: opinion dynamics, applications of statistical mechanics and network theory. Moreover, am a cofounder of the QuaRCS lab.
+I currently work as a research assistant at the Chair of International Economics at TU Dresden. I have graduated from the Development Economics Master’s degree at GSID Nagoya University in Japan. In the field of Economics, I am interested in research related to:  convergence, applications of machine learning, economic growth, remote sensing, trade and spatial econometrics. I also studied a BSc in Physics and my research interests include areas of Socio/Econ-physics such as: opinion dynamics, applications of statistical mechanics and network theory. Moreover, am a cofounder of the QuaRCS lab.
