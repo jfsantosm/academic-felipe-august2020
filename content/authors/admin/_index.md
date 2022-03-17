@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant - PhD student
+role: Research Associate 
 
 # Organizations/Affiliations
 organizations:
@@ -17,7 +17,7 @@ organizations:
   url: "https://tu-dresden.de/bu/wirtschaft/vwl/iwb/die-professur/beschaeftigte/kristina-kurzmann-sekretariat?set_language=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Assistant at TU Dresden, Dev Econ Master and Physics BSc, my research interests include spatial econometrics, machine learning, remote sensing, convergence and economic growth.
+bio: Research Associate  at TU Dresden, Dev Econ Master and Physics BSc, my research interests include spatial econometrics, machine learning, remote sensing, convergence and economic growth.
 
 interests:
 - Machine Learning
