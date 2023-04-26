@@ -40,10 +40,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Felipe_Santos-Marquez
   
 - icon: orcid
   icon_pack: fab

@@ -20,11 +20,6 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "https://www.researchgate.net/profile/Felipe_Santos-Marquez"
-  weight = 10
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 10
