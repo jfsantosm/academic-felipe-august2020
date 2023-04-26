@@ -67,5 +67,4 @@ projects: [convergence, clusters]
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-text
 
