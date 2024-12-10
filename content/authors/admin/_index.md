@@ -83,5 +83,5 @@ user_groups:
 - Visitors
 ---
 
-I am a research associate at the [Chair of International Economics at TU Dresden](https://tu-dresden.de/bu/wirtschaft/vwl/iwb#). I graduated from the development economics master’s program at GSID Nagoya University in Japan. My research interests include convergence, machine learning applications, economic growth, remote sensing, trade, and spatial econometrics. I also studied a 5-year physics BSc at the National University of Colombia. Other research interests include areas of socio/econ-physics, such as opinion dynamics, applications of statistical mechanics, and network theory. Moreover, I cofounded the [QuaRCS lab](https://quarcs-lab.org/).
+I am a research associate at the [Chair of International Economics at TU Dresden](https://tu-dresden.de/bu/wirtschaft/vwl/iwb#). I graduated from the development economics master’s program at GSID Nagoya University in Japan. My research interests include convergence, machine learning applications, economic growth, remote sensing, trade, and spatial econometrics. I also studied a 5-year physics BSc at the National University of Colombia. Other research interests include areas of socio/econ-physics, such as opinion dynamics, applications of statistical mechanics, and network theory. Moreover, I cofounded the [QuaRCS lab](https://quarcs.netlify.app/).
 
